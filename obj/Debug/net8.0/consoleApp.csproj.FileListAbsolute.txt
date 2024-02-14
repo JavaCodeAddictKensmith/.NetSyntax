@@ -1,0 +1,14 @@
+/Users/mac/Documents/consoleApp/bin/Debug/net8.0/consoleApp
+/Users/mac/Documents/consoleApp/bin/Debug/net8.0/consoleApp.deps.json
+/Users/mac/Documents/consoleApp/bin/Debug/net8.0/consoleApp.runtimeconfig.json
+/Users/mac/Documents/consoleApp/bin/Debug/net8.0/consoleApp.dll
+/Users/mac/Documents/consoleApp/bin/Debug/net8.0/consoleApp.pdb
+/Users/mac/Documents/consoleApp/obj/Debug/net8.0/consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/consoleApp/obj/Debug/net8.0/consoleApp.AssemblyInfoInputs.cache
+/Users/mac/Documents/consoleApp/obj/Debug/net8.0/consoleApp.AssemblyInfo.cs
+/Users/mac/Documents/consoleApp/obj/Debug/net8.0/consoleApp.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/consoleApp/obj/Debug/net8.0/consoleApp.dll
+/Users/mac/Documents/consoleApp/obj/Debug/net8.0/refint/consoleApp.dll
+/Users/mac/Documents/consoleApp/obj/Debug/net8.0/consoleApp.pdb
+/Users/mac/Documents/consoleApp/obj/Debug/net8.0/consoleApp.genruntimeconfig.cache
+/Users/mac/Documents/consoleApp/obj/Debug/net8.0/ref/consoleApp.dll
